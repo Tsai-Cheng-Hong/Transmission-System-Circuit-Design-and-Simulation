@@ -30,6 +30,8 @@ Compiler : SynaptiCAD
 
 20180612 - Detector & x^7+x^3+x+1 & Marquee
 
+https://github.com/Tsai-Cheng-Hong/Verilog-Basic
+
 ------------------------------------------------------------------------
 # Verilog-Normal:
 
