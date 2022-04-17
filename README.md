@@ -12,11 +12,11 @@ Compiler : SynaptiCAD
 # Verilog-base
 20180327 - Half Adder & Full Sub、Multiplier
 
-20180403 - Assign Adder & Assign Multiplier & 2*1 Multiplexer & 1*4 Multiplexer & Full Adder
+20180403 - Assign Adder & Assign Multiplier & 2-1 Multiplexer & 1-4 Multiplexer & Full Adder
 
 20180410 - if-else & case
 
-20180417 - 2's complement & 1*4 、 4*1 Mulplexer
+20180417 - 2's complement & 1-4 、 4-1 Mulplexer
 
 20180508 - up counter & down counter & trigger counter
 
